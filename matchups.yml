@@ -1,0 +1,133 @@
+---
+top:
+  mordekaiser:
+    chogath: win
+  teemo:
+    ornn: win
+  urgot:
+    irelia: win
+  darius:
+    irelia: win
+  sett:
+    akali: win
+  vladimir:
+    diana: win
+  akali:
+    mordekaiser: win
+  camille:
+    aatrox: win
+  galio:
+    ornn: win
+  maokai:
+    nocturne: win
+  riven:
+    fiora: win
+  heimerdinger:
+    lillia: win
+  garen:
+    renekton: win
+  illaoi:
+    renekton: win
+middle:
+  ryze:
+    yasuo: lose
+  pantheon:
+    kassadin: win
+  jayce:
+    katarina: win
+  rumble:
+    sylas: win
+  lucian:
+    ziggs: win
+  annie:
+    yone: win
+  ahri:
+    yone: win
+  akali:
+    samira: win
+  samira:
+    yasuo: win
+  yone:
+    diana: win
+  viktor:
+    akali: win
+  renekton:
+    riven: win
+  lux:
+    ryze: win
+  galio:
+    annie: win
+  pyke:
+    velkoz: win
+  khazix:
+    teemo: win
+  xerath:
+    brand: win
+bottom:
+  ezreal:
+    caitlyn: win
+  draven:
+    caitlyn: win
+  blitzcrank:
+    alistar: win
+  jinx:
+    ashe: win
+  zilean:
+    lulu: win
+  samira:
+    lucian: win
+  lux:
+    bard: win
+  twitch:
+    ashe: win
+  nautilus:
+    yuumi: win
+  lucian:
+    mordekaiser: win
+  rakan:
+    zoe: win
+  jhin:
+    vayne: win
+  velkoz:
+    yuumi: win
+  brand:
+    nidalee: win
+  pyke:
+    leona: win
+  kaisa:
+    jinx: win
+  yuumi:
+    sylas: win
+  sett:
+    nautilus: win
+  ! '':
+    ! '': win
+  alistar:
+    pantheon: win
+  bard:
+    lulu: win
+  caitlyn:
+    ashe: win
+  morgana:
+    thresh: win
+jungle:
+  graves:
+    dr-mundo: win
+  kindred:
+    zac: win
+  warwick:
+    amumu: win
+  khazix:
+    nunu-willump: win
+  jax:
+    lee-sin: win
+  skarner:
+    lee-sin: win
+  kayn:
+    lee-sin: win
+  teemo:
+    ekko: win
+  talon:
+    veigar: win
+  amumu:
+    ekko: win
